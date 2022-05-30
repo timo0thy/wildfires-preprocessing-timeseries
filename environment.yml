@@ -3,16 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.8
-  - jupyter
-  - ipywidgets
-  - ipykernel
   - pandas
   - xarray
   - iris
   - cartopy
-  - bokeh
-  - scikit-learn
-  - jupyterlab
-  - intake
-  - s3fs
-
