@@ -1,6 +1,18 @@
-name: template-jp
+name: Tim_eds-env
 channels:
   - conda-forge
-  - defaults
 dependencies:
-  - python
+  - python=3.8
+  - jupyter
+  - ipywidgets
+  - ipykernel
+  - pandas
+  - xarray
+  - iris
+  - cartopy
+  - bokeh
+  - scikit-learn
+  - jupyterlab
+  - intake
+  - s3fs
+
