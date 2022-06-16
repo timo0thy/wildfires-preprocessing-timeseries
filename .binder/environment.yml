@@ -7,3 +7,5 @@ dependencies:
   - xarray
   - iris
   - cartopy
+  - intake
+  - cf_units
