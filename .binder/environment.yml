@@ -1,4 +1,4 @@
-name: Tim_eds-env
+name: general-preprocessing-rainfall_noaa
 channels:
   - conda-forge
 dependencies:
