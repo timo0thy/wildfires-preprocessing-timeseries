@@ -2,7 +2,7 @@ name: general-preprocessing-rainfall_noaa
 channels:
   - conda-forge
 dependencies:
-  - python=3.8
+  - python=3.9
   - pandas
   - xarray
   - iris
