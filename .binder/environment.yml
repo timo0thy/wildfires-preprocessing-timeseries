@@ -1,10 +1,12 @@
 name: general-preprocessing-rainfall_noaa
 channels:
   - conda-forge
+  - pyviz
+  - nodefaults
 dependencies:
   - python=3.9
   - pandas
   - xarray
   - iris
-  - cartopy
   - cf-units
+  - geoviews
