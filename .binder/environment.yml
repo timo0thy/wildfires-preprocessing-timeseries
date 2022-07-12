@@ -10,4 +10,6 @@ dependencies:
   - iris
   - cf-units
   - geoviews
-  - nc_time_axis
+  - pip
+  - pip:
+      - nc_time_axis
