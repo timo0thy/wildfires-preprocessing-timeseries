@@ -14,7 +14,7 @@
     <a href="https://github.com/Environmental-DS-Book/general-preprocessing-rainfall_noaa/blob/main/LICENSE">
         <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
     </a>
-    <a href="https://mybinder.org/v2/gh/Environmental-DS-Book/general-preprocessing-rainfall_noaa/main?labpath=general-preprocessing-rainfall_noaa.ipynb">
+    <a href="https://notebooks.gesis.org/binder/v2/gh/Environmental-DS-Book/general-preprocessing-rainfall_noaa/main?labpath=general-preprocessing-rainfall_noaa.ipynb">
         <img alt="Binder" src="https://mybinder.org/badge_logo.svg">
     </a>
     <a href="https://github.com/Environmental-DS-Book/general-preprocessing-rainfall_noaa/actions/workflows/publish.yml/badge.svg">
