@@ -1,0 +1,5 @@
+{
+    "notebook_name": "general-preprocessing-rainfall_noaa.ipynb",
+    "kernel": "python",
+    "quay_image": "edsbook/general-preprocessing-rainfall_noaa"
+}
