@@ -11,14 +11,14 @@
 </div>
 
 <p align="center">
-    <a href="https://github.com/Environmental-DS-Book/general-preprocessing-rainfall_noaa/blob/main/LICENSE">
+    <a href="https://github.com/eds-book-gallery/ea34568e-d86e-4720-be2f-3f826f66a26c/blob/main/LICENSE">
         <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
     </a>
-    <a href="https://notebooks.gesis.org/binder/v2/gh/Environmental-DS-Book/general-preprocessing-rainfall_noaa/main?labpath=general-preprocessing-rainfall_noaa.ipynb">
+    <a href="https://notebooks.gesis.org/binder/v2/gh/eds-book-gallery/ea34568e-d86e-4720-be2f-3f826f66a26c/main?labpath=notebook.ipynb">
         <img alt="Binder" src="https://mybinder.org/badge_logo.svg">
     </a>
-    <a href="https://github.com/Environmental-DS-Book/general-preprocessing-rainfall_noaa/actions/workflows/render.yaml">
-        <img alt="Render" src="https://github.com/Environmental-DS-Book/general-preprocessing-rainfall_noaa/actions/workflows/render.yaml/badge.svg">
+    <a href="https://github.com/eds-book-gallery/ea34568e-d86e-4720-be2f-3f826f66a26c/actions/workflows/render.yaml">
+        <img alt="Render" src="https://github.com/eds-book-gallery/ea34568e-d86e-4720-be2f-3f826f66a26c/actions/workflows/render.yaml/badge.svg">
     </a>
     <br/>
 </p>
@@ -48,18 +48,18 @@ You may also download the notebook from GitHub to run it locally:
 
 3. Clone the repository
     ```bash
-    git clone https://github.com/Environmental-DS-Book/general-preprocessing-rainfall_noaa.git
+    git clone https://github.com/eds-book-gallery/ea34568e-d86e-4720-be2f-3f826f66a26c.git
     ```
 
 4. Move into the cloned repository
     ```bash
-    cd general-preprocessing-rainfall_noaa
+    cd ea34568e-d86e-4720-be2f-3f826f66a26c
     ```
 
 5. Create and activate your environment from the `.binder/environment.yml` file
     ```bash
     conda env create -f .binder/environment.yml
-    conda activate general-preprocessing-rainfall_noaa
+    conda activate ea34568e-d86e-4720-be2f-3f826f66a26c
     ```  
 
 6. Launch the jupyter interface of your preference, notebook, `jupyter notebook` or lab `jupyter lab`
