@@ -7,7 +7,7 @@ dependencies:
   - python=3.9
   - pandas
   - xarray
-  - iris
+  - iris==3.2.1
   - cf-units
   - geoviews
   - pip
