@@ -1,0 +1,60 @@
+cff-version: 1.2.0
+title: "Concatenating a gridded rainfall reanalysis dataset into a time series (Jupyter Notebook) published in the Environmental Data Science book"
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: Lam
+    given-names: Timothy
+    website: https://github.com/timo0thy
+    affiliation: University of Exeter
+  - family-names: Kretschmer
+    given-names: Marlene
+    website: https://github.com/MarleneKretschmer
+    affiliation: University of Reading
+  - family-names: Adams
+    given-names: Samantha
+    website: https://github.com/svadams
+    affiliation: Met Office Informatics Lab
+  - family-names: Rachel
+    given-names: Prudden
+    website: https://github.com/RPrudden
+    affiliation: Met Office Informatics Lab
+  - family-names: Elena
+    given-names: Saggioro
+    website: https://github.com/ESaggioro
+    affiliation: University of Reading
+  - name: "This EDS book notebook contributors"
+    website: "https://github.com/eds-book-gallery/15d986da-2d7c-44fb-af71-700494485def/graphs/contributors"
+version: v1.0.0 # This is automatically set using the bumpversion tool.
+identifiers:
+  - type: doi
+    value: TBA
+    description: The concept DOI for the collection containing all versions of the notebook.
+abstract: "Notebook developed to demonstrate a pipeline to concatenating a gridded rainfall reanalysis dataset into a time series."
+references:
+  - authors:
+      - family-names: Kretschmer
+        given-names: Marlene
+      - family-names: Adams
+        given-names: Samantha V.
+      - family-names: Arribas
+        given-names: Alberto
+      - family-names: Prudden
+        given-names: Rachel
+      - family-names: Robinson
+        given-names: Niall
+      - family-names: Saggioro
+        given-names: Elena
+      - family-names: Shepherd
+        given-names: Theodore G.
+    doi: 10.1175/BAMS-D-20-0117.1
+    type: article
+    scope: "Paper related to the preprocessing pipeline."
+    title: "Quantifying Causal Pathways of Teleconnections"
+    journal: "Bulletin of the American Meteorological Society"
+    year: 2021
+keywords:
+  - Environmental Data Science
+  - General
+  - Preprocessing
+  - Climate dataset
