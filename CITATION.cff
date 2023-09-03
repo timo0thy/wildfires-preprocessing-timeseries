@@ -25,7 +25,7 @@ authors:
     affiliation: University of Reading
   - name: "This EDS book notebook contributors"
     website: "https://github.com/eds-book-gallery/ea34568e-d86e-4720-be2f-3f826f66a26c/graphs/contributors"
-version: v1.0.1 # This is automatically set using the bumpversion tool.
+version: v1.0.2 # This is automatically set using the bumpversion tool.
 identifiers:
   - type: doi
     value: 10.5281/zenodo.8311360
